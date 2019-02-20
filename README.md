@@ -4,6 +4,11 @@
 
 https://zepkit.zeppelinos.org/
 
+### 0. Clone this github
+
+`git clone https://github.com/IvanTheGreatDev/ZepKit-Dockerfile`
+`cd ZepKit-Dockerfile`
+
 ### 1. Build the Docker image (This may take a few minutes).
 
 `./build`
